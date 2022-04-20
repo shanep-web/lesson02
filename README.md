@@ -1,16 +1,38 @@
-# lesson02
+# lesson02 - Scavenger Hunt
+
 
 ## Learning Objectives
 
-- TBD
+- Ensure your development environment is all setup
+- Explore the website
+- Ensure you can submit code to be graded
+- Make sure Github Classrooms functioning
+
+## Important links
+
+- [Lab Overview]()
+- [VSCode and Git Installed](https://www.youtube.com/watch?v=lix7G-S8ox8)
+- [Class Coding standards](https://shanep-web.github.io/docs/coding-standards.html)
+- [Cloning and Submitting](https://shanep-web.github.io/docs/github.html)
 
 ## Overview
 
+The number #1 reason for students failing this course is falling behind. In this class I have
+released 100% of the schedule on day 1 so you can know what is coming due at any point in the
+semester.  To that end we are going to do a quick scavenger hunt. This will probably be the easiest
+scavenger hunt in history as I will tell you exactly where to look and what to do. The purpose of
+this lab is to ensure that you are aware of when everything is due, familiarize yourself with the
+course, and make sure you have all the development tools installed and ready to use.
 
-## Videos
+## Task 1 - Install VSCode
 
-- [Lab Overview]()
+In this task we will get all of our development tools setup on our machine. If you have a computer
+that is not capable of installing all the required tools you will need to complete your homework in
+the department provided computer lab. While you are free to use whatever IDE or editor you want the
+only supported editor is VSCode.
 
+- Install the VScode [Coding pack for Java](https://code.visualstudio.com/learn/educators/installers)
+- Install [Node.js](https://nodejs.org/en/download/)
 
 ## Task 2 - Install Git
 
@@ -19,25 +41,21 @@ download from [git-scm.com](http://git-scm.com/). If you are on windows make sur
 **64-bit Git for Windows Setup** version. Keep all the setting default unless you **really** know
 what your doing.
 
-## Task 3 - Install VSCode
+## Task 3 - Install Node.js
 
-While you are free to use whatever IDE or editor you want the only supported editor is VSCode. You
-will need to install the [coding pack for
-Java](https://code.visualstudio.com/learn/educators/installers) which will give you all the tools
-necessary to complete the labs.
+We will be using [Node.js](https://nodejs.org/en/download/) extensively this semester so you will need
+to install it on your local machine. Once you have Node.js installed you can run the hello.js file
+to ensure that everything is working.
 
-{% include youtube.html param="https://www.youtube.com/embed/lix7G-S8ox8" %}
+```bash
+$ node hello.js
+Hello World
+```
 
-## Task 4 - Install Node.js
+## Task 4 - Scavenger hunt
 
-We will be using Node.js throughout the semester to run our [QUnit](https://qunitjs.com/) tests and
-later in the semester to generate actual websites! So download and install
-[Node.js](https://nodejs.org/en/download/) from the official website so you can get started writing
-some code!
+Open the file **ScavengerHunt.md** and complete all the TODO items that are listed. 
 
+## Task 5 - Add, Commit, Push your code
 
-## Task 3 - Add, Commit, Push your code
-
-Once you are finished you need to make sure that you have pushed all your code to GitHub for
-grading!
-
+Once you are finished you need to make sure that you have pushed all your code to GitHub for grading!
