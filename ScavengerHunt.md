@@ -30,36 +30,36 @@ Plugin](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-
 
 If a lesson doesn't have any points associated with it you can just leave that cell blank.
 
-| Lesson   | Title               | Points | Due Date    |
-| -------- | ------------------- | ------ | ----------- |
-| lesson01 | Course Introduction |        |             |
-| lesson02 | Scavenger Hunt      | 50     | 08/26 - Fri |
-| lesson03 |                     |        |             |
-| lesson04 |                     |        |             |
-| lesson05 |                     |        |             |
-| lesson06 |                     |        |             |
-| lesson07 |                     |        |             |
-| lesson08 |                     |        |             |
-| lesson09 |                     |        |             |
-| lesson10 |                     |        |             |
-| lesson11 |                     |        |             |
-| lesson12 |                     |        |             |
-| lesson13 |                     |        |             |
-| lesson14 |                     |        |             |
-| lesson15 |                     |        |             |
-| lesson16 |                     |        |             |
-| lesson17 |                     |        |             |
-| lesson18 |                     |        |             |
-| lesson19 |                     |        |             |
-| lesson20 |                     |        |             |
-| lesson21 |                     |        |             |
-| lesson22 |                     |        |             |
-| lesson23 |                     |        |             |
-| lesson24 |                     |        |             |
-| lesson25 |                     |        |             |
-| lesson26 |                     |        |             |
-| lesson27 |                     |        |             |
-| lesson28 |                     |        |             |
-| lesson29 |                     |        |             |
-| lesson30 |                     |        |             |
-| lesson31 |                     |        |             |
+| Lesson   | Title                  | Points | Due Date    |
+| -------- | ---------------------- | ------ | ----------- |
+| lesson01 | Course Introduction    |        |             |
+| lesson02 | Scavenger Hunt         | 50     | 08/26 - Fri |
+| lesson03 | Reading Homework (ch1) | 20     | 08/31 - Wed |
+| lesson04 |                        |        |             |
+| lesson05 |                        |        |             |
+| lesson06 |                        |        |             |
+| lesson07 |                        |        |             |
+| lesson08 |                        |        |             |
+| lesson09 |                        |        |             |
+| lesson10 |                        |        |             |
+| lesson11 |                        |        |             |
+| lesson12 |                        |        |             |
+| lesson13 |                        |        |             |
+| lesson14 |                        |        |             |
+| lesson15 |                        |        |             |
+| lesson16 |                        |        |             |
+| lesson17 |                        |        |             |
+| lesson18 |                        |        |             |
+| lesson19 |                        |        |             |
+| lesson20 |                        |        |             |
+| lesson21 |                        |        |             |
+| lesson22 |                        |        |             |
+| lesson23 |                        |        |             |
+| lesson24 |                        |        |             |
+| lesson25 |                        |        |             |
+| lesson26 |                        |        |             |
+| lesson27 |                        |        |             |
+| lesson28 |                        |        |             |
+| lesson29 |                        |        |             |
+| lesson30 |                        |        |             |
+| lesson31 |                        |        |             |
