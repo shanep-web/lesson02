@@ -2,6 +2,14 @@
 
 Complete each section below! Replace each TODO with the correct information.
 
+## About Me
+
+TODO: Fill out the information below!
+
+- Name: TODO
+- Boise state email: TODO
+- github username: TODO
+
 
 ## Course Links
 
